@@ -1,0 +1,15 @@
+.foto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.foto img {
+    width: 250px;
+    border-radius: 50%;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
